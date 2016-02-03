@@ -1,0 +1,4 @@
+---
+- hosts: tag_area_architecture
+  tasks:
+    - ping:
