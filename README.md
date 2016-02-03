@@ -5,8 +5,6 @@ Install dependencies
 --------------------
 
     mkvirtualenv ansible-aws-inventory
-
-
     pip install -r requirements.txt
 
 
@@ -28,4 +26,5 @@ References
 ----------
 
 http://docs.ansible.com/ansible/intro_dynamic_inventory.html
+
 http://docs.pythonboto.org/en/latest/boto_config_tut.html
